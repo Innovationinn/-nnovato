@@ -9,4 +9,8 @@ printf("Enter the 2nd number:")
 scanf("%d",&b);
 c=a+b;
 printf("Sum=",c);
+  
+  
+  
+  
 }
