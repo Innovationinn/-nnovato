@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-  printf("NiMiShA");
+  printf("NiMiShA CP");
 }
